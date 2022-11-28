@@ -1,0 +1,52 @@
+body{
+    font-family: Helvetica;
+    background-color: #ffe4b5;
+}
+form{
+    margin: 40px;
+}
+.gora{
+    display: flex;
+    flex-wrap: wrap;
+}
+.naglowek{
+    background-color: #4b0082;
+    color: white;
+    text-align: center;
+    width: 75%;
+    height: 100px;
+    font-size: 150%;
+}
+.logo{
+    width: 25%;
+    height: 100px;
+}
+.lewy{
+    width: 45%;
+    height: 300px;
+}
+.prawy{
+    width: 55%;
+    height: 300px;
+    text-align: center;
+}
+.main{
+    background-color: #4b0082;
+    padding: 60px;
+    height: 275px;
+}
+.stopka{
+    background-color: #4b0082;
+    color: white;
+    padding: 40px;
+  
+}
+.tabela{
+    color: white;
+    text-align: center;
+    width: 90%;
+    border: 1px dotted yellow;
+}
+td:hover{
+    background-color: #9370db;
+}
